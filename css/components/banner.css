@@ -1,0 +1,13 @@
+.banner {
+  padding: 120px;
+  color: white;
+  font-weight: bold;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner p {
+  font-size: 20px;
+  padding: 2px;
+  font-weight: light;
+}

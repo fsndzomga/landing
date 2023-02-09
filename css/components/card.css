@@ -1,0 +1,24 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  width: 65%;
+  margin: 0 auto;
+}
+
+.card {
+
+  width: 34%;
+  background-color: white;
+  text-align: center;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 4px -1px 20px 14px whitesmoke;
+  margin: 2em;
+
+}
+
+.card img {
+  width: 150px;
+  height: 115px;
+  padding: 10px;
+}
